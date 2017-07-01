@@ -1,0 +1,17 @@
+header{
+	width:100%;
+}
+
+body{
+    background-color:#fafafa;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    padding-bottom: 50px;
+    width: 100%;
+}
+
+
+a{
+    text-decoration: none;
+    color:inherit;
+}
